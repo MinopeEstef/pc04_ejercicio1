@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PC04_Miñope</string>
+    <string-array name="categories_array">
+        <item>Cualquiera</item>
+        <item>Miscellaneous</item>
+        <item>Dark</item>
+        <item>Pun</item>
+        <item>Spooky</item>
+        <item>Christmas</item>
+    </string-array>
+</resources>
